@@ -3,5 +3,6 @@
     "render_readme": true,
     "filename": "hpsu-dashboard-card.js",
     "content_in_root": false,
-    "dist": true
+    "dist": true,
+    "homeassistant": "2025.11.0"
 }
